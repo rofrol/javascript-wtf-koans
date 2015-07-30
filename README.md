@@ -25,6 +25,7 @@
 - http://davidwalsh.name/fixing-coercion
 - https://www.safaribooksonline.com/library/view/you-dont-know/9781491905159/ch04.html
 - http://www.2ality.com/2013/04/12quirks.html
+- http://cwestblog.com/2014/02/25/javascript-testing-for-negative-zero/
 
 # How to defend yourself
 
@@ -38,6 +39,7 @@
 - http://www.amazon.com/JavaScript-The-Good-Parts-ebook/dp/B0026OR2ZY/
 - http://stackoverflow.com/questions/18922197/using-parasitic-inheritance-in-javascript-is-it-possible-to-implement-introspec
 - http://www.crockford.com/javascript/inheritance.html
+- http://blog.chewxy.com/2014/02/24/what-every-javascript-developer-should-know-about-floating-point-numbers/
 
 # Is Crkockford wrong on DEC64?
 
