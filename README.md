@@ -38,3 +38,8 @@
 - http://www.amazon.com/JavaScript-The-Good-Parts-ebook/dp/B0026OR2ZY/
 - http://stackoverflow.com/questions/18922197/using-parasitic-inheritance-in-javascript-is-it-possible-to-implement-introspec
 - http://www.crockford.com/javascript/inheritance.html
+
+# Is Crkockford wrong on DEC64?
+
+- https://www.reddit.com/r/programming/comments/28r8xt/dec64_is_intended_to_be_the_only_number_type_in/
+- https://news.ycombinator.com/item?id=7365812
