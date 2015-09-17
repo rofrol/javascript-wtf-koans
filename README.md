@@ -45,3 +45,24 @@
 
 - https://www.reddit.com/r/programming/comments/28r8xt/dec64_is_intended_to_be_the_only_number_type_in/
 - https://news.ycombinator.com/item?id=7365812
+
+## Examples
+
+```javascript
+var foo = ["10", "10", "10"];
+foo.map(parseInt);
+// Returns [ 10, NaN, 2 ]
+
+[] + [] // ""
+[] + {} // {}
+{} + [] // 0
+{} + {} // NaN
+
+var a = {};
+a[[]] = 2;
+alert(a[""]); // alerts 2
+
+alert(Array(16).join("wat" - 1) + " Batman!");
+```
+
+https://news.ycombinator.com/item?id=8850540
