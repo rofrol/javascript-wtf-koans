@@ -48,6 +48,8 @@
 
 ## Examples
 
+### Some WTF moments in Javascript, courtesy of Gary Bernhardt
+
 ```javascript
 var foo = ["10", "10", "10"];
 foo.map(parseInt);
@@ -66,3 +68,12 @@ alert(Array(16).join("wat" - 1) + " Batman!");
 ```
 
 https://news.ycombinator.com/item?id=8850540
+
+### Contrived usage of comma operator and behaviour of parseInt - what's the output?
+
+```javascript
+parseInt((null, {test: 99}, false, 'J,uhuru', /asdf/, function() {  giantInflatableShark(!!'!!'); },
+     'A,spock', '0') + ('cheese' / 'toast', new Date(), Number('hello'),
+     'x') + (undefined, [1, 2, 3], new Array(5), 1e4, 'F,captainkirk'))
+```
+https://gist.github.com/insin/1183916
