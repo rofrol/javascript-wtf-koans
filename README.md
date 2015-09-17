@@ -26,6 +26,7 @@
 - https://www.safaribooksonline.com/library/view/you-dont-know/9781491905159/ch04.html
 - http://www.2ality.com/2013/04/12quirks.html
 - http://cwestblog.com/2014/02/25/javascript-testing-for-negative-zero/
+- https://wiki.theory.org/YourLanguageSucks#JavaScript_sucks_because
 
 # How to defend yourself
 
