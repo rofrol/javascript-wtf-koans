@@ -27,7 +27,7 @@
 - http://www.2ality.com/2013/04/12quirks.html
 - http://cwestblog.com/2014/02/25/javascript-testing-for-negative-zero/
 - https://wiki.theory.org/YourLanguageSucks#JavaScript_sucks_because
-- {} + "wtf" https://www.reddit.com/r/javascript/comments/3z74ok/will_let_eventually_replace_var/cyk8vjq
+- `{} + "wtf"` `console.log(eval('{}+"wtf"'))` https://www.reddit.com/r/javascript/comments/3z74ok/will_let_eventually_replace_var/cyk8vjq
 
 # How to defend yourself
 
